@@ -38,17 +38,16 @@ $ git reflog
 ```
 - HEAD 版本头
 - commit_id  提交（版本）id
-```
+
 ------------------------------------------------------------
 
 ## 4. add → commit：暂缓区 → 分支
 ### 创建，添加到暂缓区
 
-![](https://raw.githubusercontent.com/xiaochuhub/MarkdwonImg/master/create-add.jpg)
+![](https://cdn.rawgit.com/xiaochuhub/MarkdwonImg/592ac149/Img/add-commit.jpg)
 
 ### 提交暂缓区的文件到master
-
-![](https://raw.githubusercontent.com/xiaochuhub/MarkdwonImg/master/add-commit.jpg)
+![](https://cdn.rawgit.com/xiaochuhub/MarkdwonImg/592ac149/Img/create-add.jpg)
 
 -------------------------------------------------------------
 ## 5. 撤销修改
@@ -97,12 +96,11 @@ $ git branch -d <name>
 
 ```
 ### 演示动画
-```HTML
-<video id="video" controls="" preload="none" poster="http://media.w3.org/2010/05/sintel/poster.png">
-      <source id="mp4" src="https://rawgit.com/xiaochuhub/MarkdwonImg/master/videos/master-and-dev-ff.mp4" type="video/mp4">
+<video id="video" controls="" preload="none" poster="https://cdn.rawgit.com/xiaochuhub/MarkdwonImg/c311950d/Img/gitfengmian.jpg">
+      <source id="mp4" src="https://cdn.rawgit.com/xiaochuhub/MarkdwonImg/592ac149/videos/master-and-dev-ff.mp4" type="video/mp4">
 
       <p>Your user agent does not support the HTML5 Video element.</p>
-</video>
+
 ```
 -----------------------------------------------------------------
 ## 9. 冲突
