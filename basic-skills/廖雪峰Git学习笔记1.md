@@ -96,6 +96,14 @@ $ git merge <name>
 $ git branch -d <name>
 
 ```
+### 演示动画
+```HTML
+<video id="video" controls="" preload="none" poster="http://media.w3.org/2010/05/sintel/poster.png">
+      <source id="mp4" src="https://rawgit.com/xiaochuhub/MarkdwonImg/master/videos/master-and-dev-ff.mp4" type="video/mp4">
+
+      <p>Your user agent does not support the HTML5 Video element.</p>
+</video>
+```
 -----------------------------------------------------------------
 ## 9. 冲突
 ```shell
